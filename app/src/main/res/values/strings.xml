@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="bin_hint">Enter the first digits of a card number (BIN/IIN)</string>
+    <string name="default_bin">4571 7360</string>
+    <string name="network">SCHEME / NETWORK</string>
+    <string name="BRAND">BRAND</string>
+    <string name="CARD_NUMBER">CARD NUMBER</string>
+    <string name="LENGTH">LENGTH</string>
+    <string name="LUHN">LUHN</string>
+    <string name="TYPE">TYPE</string>
+    <string name="PREPAID">PREPAID</string>
+    <string name="COUNTRY">COUNTRY</string>
+    <string name="BANK">BANK</string>
+    <string name="NULL">null</string>
+</resources>
