@@ -19,3 +19,7 @@
 Загрузка информации
 
 ![image](https://user-images.githubusercontent.com/57949020/209825898-511468cc-d45e-44a4-b1ef-484d79bbb028.png)
+
+Ошибка загрузки 
+
+![image](https://user-images.githubusercontent.com/57949020/209826067-2f005c34-12eb-4f3c-8bce-d456af1c36cd.png)
